@@ -1,0 +1,10 @@
+{
+  "name": "tarea1b",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "pablo arancibia rojas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
